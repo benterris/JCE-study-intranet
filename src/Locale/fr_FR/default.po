@@ -1,0 +1,161 @@
+msgid "January"
+msgstr "Janvier"
+
+msgid "February"
+msgstr "Février"
+
+msgid "March"
+msgstr "Mars"
+
+msgid "April"
+msgstr "Avril"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "June"
+msgstr "Juin"
+
+msgid "July"
+msgstr "Juillet"
+
+msgid "August"
+msgstr "Août"
+
+msgid "September"
+msgstr "Septembre"
+
+msgid "October"
+msgstr "Octobre"
+
+msgid "November"
+msgstr "Novembre"
+
+msgid "December"
+msgstr "Décembre"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "Last Name"
+msgstr "Nom"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Phone Number"
+msgstr "Téléphone"
+
+msgid "Subject"
+msgstr "Matière enseignée"
+
+msgid "User Id Highschool"
+msgstr "Lycée"
+
+msgid "Occupation"
+msgstr "Profession"
+
+msgid "Company"
+msgstr "Entreprise"
+
+msgid "Professional Background"
+msgstr "Historique professionnel"
+
+msgid "Desired Interventions"
+msgstr "Interventions souhaitées"
+
+msgid "Disponibilites"
+msgstr "Disponibilités"
+
+msgid "Tutor"
+msgstr "Tuteur"
+
+msgid "Membership Fee"
+msgstr "Cotisation membre"
+
+msgid "Code Ethics"
+msgstr "Charte éthique signée"
+
+msgid "Highschool Name"
+msgstr "Nom du lycée"
+
+msgid "First Name Delegate"
+msgstr "Prénom du responsable adjoint"
+
+msgid "Last Name Delegate"
+msgstr "Nom du responsable adjoint"
+
+msgid "Email Delegate"
+msgstr "Email du responsable adjoint"
+
+msgid "Phone Number Delegate"
+msgstr "Téléphone du responsable adjoint"
+
+msgid "Formation"
+msgstr "Type de formation enseignée"
+
+msgid "Section"
+msgstr "Classe"
+
+msgid "Birth Date"
+msgstr "Date de naissance"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "volunteer"
+msgstr "Bénévole"
+
+msgid "teacher"
+msgstr "Professeur"
+
+msgid "highschool"
+msgstr "Lycée"
+
+msgid "poleManager"
+msgstr "Responsable de pôle"
+
+msgid "Please fill in this field"
+msgstr "Veuillez renseigner ce champ"
+
+msgid "Please select an item in the list."
+msgstr "Veuillez sélectionner un item dans la liste."
+
+msgid "This field cannot be left empty"
+msgstr "Ce champ doit être rempli"
+
+msgid "The provided value is invalid"
+msgstr "La valeur entrée n'est pas valide"
+
+msgid "of"
+msgstr "sur"
+
+msgid "next"
+msgstr "suivant"
+
+msgid "first"
+msgstr "premier"
+
+msgid "previous"
+msgstr "précédent"
+
+msgid "last"
+msgstr "dernier"
+
+msgid "edit"
+msgstr "modifier"
+
+msgid "Highschool name"
+msgstr "Nom du lycée"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Confirm Password"
+msgstr "Confirmez le mot de passe"

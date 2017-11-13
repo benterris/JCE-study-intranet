@@ -1,0 +1,21 @@
+gerer les accès
+
+exporter csv pour l'admin
+
+comptage des interventions demandées
+
+- poleManaged : restreindre les actions du respo pole a son pole -> ok
+
+- trier interv dates
+
+- mecanisme de feedback (view_completed etc) -> ok
+
+- page login
+
+remove datepk
+
+- admin add respo pole
+
+- en tant que responsable de pole quand on ne selectionne personne et qu'on fait affecter...
+
+- mdp oublié
